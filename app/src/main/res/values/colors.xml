@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="barColour">#5a7d60</color>
+    <color name="dividerColorDay">#62a662</color>
+    <color name="dividerColorNight">#223822</color>
+
 </resources>
